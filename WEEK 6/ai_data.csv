@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected,percent,status
+Dataset_1,1187,1200,98.91666666666666,WARNING
+Dataset_2,1200,1000,120.0,OVER LIMIT
+Dataset_3,870,1000,87.0,OK
+Dataset_4,950,1000,95.0,WARNING
+Dataset_5,1021,1000,102.1,OVER LIMIT
+Dataset_6,450,500,90.0,WARNING
